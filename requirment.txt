@@ -1,0 +1,13 @@
+sklearn
+pandas
+numpy
+matplotlib
+os
+glob
+re
+cx-Oracle
+keras
+tensorflow
+regex
+os-sys
+glob2
